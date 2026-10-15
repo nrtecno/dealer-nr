@@ -8,7 +8,7 @@ import time
 BOT_TOKEN = os.environ.get("TELEGRAM_TOKEN")
 ADMIN_CHANNEL_ID = os.environ.get("ADMIN_CHANNEL_ID")
 ADMIN_ID = os.environ.get("ADMIN_ID")
-JOIN_LINK = "https://t.me/+AMrKiPLIi0QzYjU9"
+JOIN_LINK = "https://t.me/+9k0MsCnp9DZlMjk1"
 QR_CODE_PATH = "qr_code.png"
 DB_PATH = "users.db"
 
